@@ -1,0 +1,37 @@
+@import 'antd/dist/antd.css';
+.gog{
+  background-color: rgba(0, 255, 255, 0.219);
+}
+
+
+.homepage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 200px;
+  width: 30vw;
+  height: 50vw;
+  border-radius: 20px;
+  box-shadow: 0 0 15px 5px gray;
+  background: rgb(243, 241, 241);
+  position: relative;
+
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 450px;
+  width: 40vw;
+  height: 60vw;
+  border-radius: 20px;
+  background: #1877f2;
+  border: 1px solid #1877f2;
+  color: #fff;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
